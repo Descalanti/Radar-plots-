@@ -1,3 +1,9 @@
+'''
+Code for producing a heat map of reported Ebola bases in the DRC from 2018 - 2020. 
+Authors: Devyn Escalanti
+University of Central Florida 
+Email: dtescalanti@gmail.com
+'''
 
 #creating data frames
 bio2 <- data.frame(Jan = c(1300000, 0, 1023560),
